@@ -5,7 +5,7 @@ This project was developed during my internship at **Dräexlmaier Sousse – Pro
 The objective was to design and implement a **Power BI dashboard** to analyze training participation across Draexlmaier sites in **Africa and Europe**, providing management with dynamic KPIs and actionable insights.  
 
 
-![Dashboard Screenshot](Screenshot/dashboard-overview.PNG)
+![Dashboard Screenshot](screenshot/dashboard-overview.PNG)
 
 The dashboard tracks:  
 - **Headcount & Actual Headcount** of students by country, location, and training year  
